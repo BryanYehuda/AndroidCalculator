@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="kurang">-</string>
+    <string name="bagi">/</string>
+    <string name="kali">*</string>
+    <string name="tambah">+</string>
+    <string name="input_2">Input 2</string>
+    <string name="input_1">Input 1</string>
+    <string name="keliling">keliling</string>
+    <string name="luas">Luas</string>
+    <string name="pangkat">Pangkat</string>
+    <string name="akar">Akar</string>
+    <string name="calculator_android">Calculator Android</string>
+</resources>
