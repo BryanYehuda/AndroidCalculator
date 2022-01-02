@@ -1,4 +1,4 @@
-# AndroidCalculator
+# Android Calculator
 
 ## English
 This repository is useful for storing the code needed to create a Calculator Application on Android.
